@@ -1,0 +1,123 @@
+main{
+	background-color: lightgrey;
+	color: #95A595;
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	color: red;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+mark{
+	background-color: lightgrey;
+	color: #95A595 ;
+}
+
+.button{
+	background-color: red;
+	color:white;
+	font-size: 20px;
+	border: 2px solid red;
+	height: 160px;
+	border-radius: 10px;
+}
+/* img */
+ul img{
+	max-width: 5%;
+	height: auto;
+
+}
+.info img{
+	width: 70px;
+	height: auto;
+	border-radius: 50px;
+	border: 2px solid grey;
+
+}
+
+/* liens */
+.liens ul{
+	display: flex;
+	list-style-type: none;
+	align-items: center;
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+
+
+}
+.liens li{
+	margin-left: 10px;
+	color: lightgrey;
+}
+
+/*Block*/
+.info{
+	background-color: white;
+	background-position: center;
+	width: 600px;
+	height: auto;
+	margin-left: 33%;
+	margin-bottom: 20px;
+	text-align: center; 
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+}
+.liens{
+	background-color: white;
+	background-position: center;
+	width: 600px;
+	height: auto;
+	margin-left: 33%; 
+}
+.movies{
+	background-color: white;
+	background-position: center;
+	width: 600px;
+	height: auto;
+	margin-left: 33%; 
+}
+.movies img{
+	width: 150px;
+	height: auto;
+}
+
+
+/* Movies */
+.movieOne{
+	display: flex;
+	margin-left: 10px;
+	margin-bottom: 25px;
+}
+.movieTwo{
+	display: flex;
+	margin-left: 10px;
+	margin-bottom: 25px;
+}
+.movieThree{
+	display: flex;
+	margin-left: 10px;
+	margin-bottom: 25px;
+}
+.films{
+	
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+
+
+
+	
+
+
+
